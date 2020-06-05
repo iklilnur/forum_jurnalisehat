@@ -1,14 +1,19 @@
-html{  min-height: 100%;
-  position: relative;}
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+
 body {
   margin: 0;
-  margin-bottom: 180px;}
+  margin-bottom: 180px;
+}
 
-.footer-distributed { 
-	position: absolute;
-	bottom: 0;
+.footer-distributed {
 	background: #2C3E50;
 	width: 100%;
+	position: absolute;
+	bottom: 0;
 	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
 	box-sizing: border-box;
 	text-align: left;
@@ -194,14 +199,3 @@ body {
 
 }
 
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
